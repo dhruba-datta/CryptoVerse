@@ -3,7 +3,7 @@ import { Switch, Route, Link } from 'react-router-dom';
 import { Layout, Typography, Space } from 'antd';
 
 import { Exchanges, Homepage, News, Cryptocurrencies, CryptoDetails, Navbar } from './components';
-// import './App.css';
+import './App.css';
 
 const App = () => {
   return (
