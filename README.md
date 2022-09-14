@@ -1,7 +1,7 @@
 
 # CryptoVerse🔥![GitHub watchers](https://img.shields.io/github/watchers/dhruba-datta/CryptoVerse?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/dhruba-datta/CryptoVerse?style=social)
 
-**[CryptoVerse](https://cryptoverse20.netlify.app)** is a crytocurrency react application with in depth data of all cryptocurrency, crypto market & popular news on crypto using Redux toolkit, Ant design & Rapid API.
+**[CryptoVerse](https://cryptoverse20.netlify.app)** is a React application with in depth data of all cryptocurrency, crypto market & popular news on crypto using Redux toolkit, Ant design & Rapid API.
 
 
 ## ✅ Features
